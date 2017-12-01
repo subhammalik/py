@@ -3,17 +3,17 @@
 #list files of a particular directory
 # import os
 #
-# fw=open("C:/Users/SUBHAM/Desktop/foo/3.txt",'w')
+# fw=open("D:/Users/submalik/Desktop/foo/3.txt",'w')
 # fw.write('new stuff\ncool stuff\ngreat!')
 # fw.close()
 #
-# l=os.listdir("C:/Users/SUBHAM/Desktop/foo")
+# l=os.listdir("D:/Users/submalik/Desktop/foo")
 # l.append('my.html')
 # print(l)
 #
 # try:
 #     for i in l:
-#         fr=open('C:/Users/SUBHAM/Desktop/foo/'+i)
+#         fr=open('D:/Users/submalik/Desktop/foo/'+i)
 #         v=fr.read()
 #         w=len(v.split())
 #         s=len(v.splitlines())
